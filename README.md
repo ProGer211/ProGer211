@@ -49,7 +49,7 @@ Estudiante de último curso de Ingeniería Informática con experiencia práctic
 | [codeEvaluator](https://github.com/ProGer211/codeEvaluator) | Plataforma web desarrollada como Trabajo de Fin de Grado para la evaluación automática de código. Permite enviar, compilar y ejecutar soluciones y obtener información sobre su corrección, rendimiento y resultados. |
 | [Football API](https://github.com/ProGer211/PROGRAMACIO_MULTIPLATAFORMA_I_DISTRIBUIDA/tree/main/Proyecto%20PMUD) | Aplicación web relacionada con información de fútbol, desarrollada mediante una arquitectura MVC y una API REST, con gestión de usuarios, equipos, competiciones y partidos. |
 | [Minería de datos](https://github.com/ProGer211/PROYECTO_MINERIA_DE_DATOS) | API REST desarrollada con Flask para gestionar información de fútbol, utilizando una base de datos y servicios externos. |
-| [Robocode]([https://github.com/ProGer211/PROYECTO_MINERIA_DE_DATOS](https://github.com/ProGer211/PROJECTE_DE_PROGRAMACIO)) | API REST desarrollada con Flask para gestionar información de fútbol, utilizando una base de datos y servicios externos. |
+| [Robocode](https://github.com/ProGer211/PROJECTE_DE_PROGRAMACIO) | API REST desarrollada con Flask para gestionar información de fútbol, utilizando una base de datos y servicios externos. |
 
 ## Contacto
 
